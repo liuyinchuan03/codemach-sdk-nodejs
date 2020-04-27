@@ -16,7 +16,7 @@
     "axios": "^0.18.0",
     "bignumber.js": "^7.2.1",
     "bumo-sdk": "git+https://github.com/hpchain/hpchain-sdk-nodejs.git#v2.1.3",
-    "rexx-encryption": "git+https://www.npmjs.com/package/rexx-encryption",
+    "rexx-encryption": "^1.0.3",
     "co-wrap-all": "^1.0.0"
   },
   "devDependencies": {
